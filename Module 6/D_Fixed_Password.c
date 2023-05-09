@@ -1,20 +1,19 @@
-#include <stdio.h>
-
+#include<stdio.h>
 int main()
-{   
+{
     int n;
-    while (scanf("%d", &n) != EOF)
+    while(scanf("%d",&n) != EOF)
     {
-        if (n == 1999)
+        //kaj
+        if(n==1999)
         {
             printf("Correct\n");
             break;
-        } else {
+        }
+        else 
+        {
             printf("Wrong\n");
         }
-        
     }
-    
-    
     return 0;
 }

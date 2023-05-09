@@ -1,1 +1,1 @@
-# c-programming
+# Batch-3-Introduction-to-C-Programming
